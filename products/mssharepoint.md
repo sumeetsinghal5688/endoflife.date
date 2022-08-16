@@ -10,6 +10,12 @@ activeSupportColumn: true
 releaseDateColumn: true
 sortReleasesBy: releaseDate
 releases:
+-   releaseCycle: "Subscription Edition"
+    support: 
+    eol: 
+    latest: "16.0.14931.20612"
+    releaseDate: 2021-11-02
+    latestReleaseDate: 2022-08-09
 -   releaseCycle: "2019"
     support: 2024-01-09
     eol: 2026-07-14
